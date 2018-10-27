@@ -150,7 +150,8 @@ define([
     "fractionjs/tests/fraction.test",
     "escape-latex/src/index.test",
     "decimaljs/test/test",
-    "complexjs/tests/complex.test"
+    "complexjs/tests/complex.test",
+    "mathjs/runAllTests"
 ], function() {
     return {
         main: function() { }
