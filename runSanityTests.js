@@ -98,8 +98,7 @@ define([
     "windows-1251",
     "windows-1252",
     "xml-js",
-    "xml-writer",
-    "xregexp"
+    "xml-writer"
 ], function() {
     return {
         main: function() {

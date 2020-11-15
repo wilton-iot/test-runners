@@ -94,6 +94,5 @@ import "windows-1251";
 import "windows-1252";
 import "xml-js";
 import "xml-writer";
-import "xregexp";
 
 print("test: ES sanity");

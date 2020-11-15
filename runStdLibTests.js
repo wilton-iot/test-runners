@@ -94,7 +94,6 @@ define([
     "windows-1252/test",
     "xml-js/test",
     "xml-writer/test",
-    "xregexp/test",
     "wilton-mobile/test"
 ], function() {
     return {
